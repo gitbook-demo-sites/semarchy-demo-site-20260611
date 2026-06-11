@@ -5,8 +5,6 @@ icon: triangle-exclamation
 
 # Compatibility note template
 
-{% hint style="warning" %}
-**Compatibility note**
+{% include ".gitbook/includes/compatibility-note.md" %}
 
-This workflow depends on the Semarchy platform version, plus the supported range for the related CLI, extension, or integration surface. Confirm the relevant release notes before rollout.
-{% endhint %}
+Owner suggestion: <code class="expression">space.vars.compatibility_owner</code>

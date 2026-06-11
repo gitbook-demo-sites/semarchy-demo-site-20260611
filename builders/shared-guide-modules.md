@@ -13,3 +13,9 @@ Potential reusable content across both tracks:
 - Design CLI install and bootstrap
 - SemQL learning references
 - modeling concepts
+
+## Concrete reusable blocks
+
+{% include ".gitbook/includes/shared-sso-prereqs.md" %}
+
+{% include ".gitbook/includes/shared-api-client-checklist.md" %}

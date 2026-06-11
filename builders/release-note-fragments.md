@@ -11,3 +11,10 @@ Potential reusable release content:
 - compatibility warning format
 - upgrade prerequisite checklist
 - support escalation note
+
+{% include ".gitbook/includes/release-note-warning.md" %}
+
+## Shared links
+
+- Public docs: <code class="expression">space.vars.docs_url</code>
+- Support portal: <code class="expression">space.vars.support_url</code>

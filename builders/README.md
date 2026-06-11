@@ -8,3 +8,11 @@ icon: copy
 This space is intentionally not published in the site navigation.
 
 It exists to hold reusable content that appears to be shared between the cloud and self-hosted documentation tracks, so Semarchy can reduce duplication while keeping the published IA literal to the current docs.
+
+## What is concrete here
+
+This space now includes real GitBook reusable blocks in `.gitbook/includes/` plus shared variables in `.gitbook/vars.yaml`.
+
+{% hint style="success" %}
+The snippets in this space are examples of authoring primitives Semarchy could actually reuse when consolidating duplicate cloud and self-hosted material.
+{% endhint %}
