@@ -1,0 +1,29 @@
+openapi: 3.1.0
+info:
+  title: Semarchy Platform API
+  version: demo
+  description: Demo OpenAPI file used to illustrate a GitBook-managed Semarchy API reference.
+servers:
+  - url: https://api.semarchy.example
+paths:
+  /sessions:
+    post:
+      summary: Create a platform session
+      tags: [Authentication]
+      responses:
+        '200':
+          description: Session created
+  /models:
+    get:
+      summary: List available data models
+      tags: [Models]
+      responses:
+        '200':
+          description: Models returned
+  /lineage/jobs:
+    get:
+      summary: List lineage jobs
+      tags: [Operations]
+      responses:
+        '200':
+          description: Jobs returned
