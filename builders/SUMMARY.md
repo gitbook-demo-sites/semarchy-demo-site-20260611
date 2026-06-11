@@ -6,14 +6,3 @@
 * [Platform CLI and VS Code](platform-cli-and-vscode.md)
 * [APIs and third-party platforms](apis-and-third-party-platforms.md)
 * [Compatibility matrix](compatibility-matrix.md)
-* ```yaml
-  type: builtin:openapi
-  props:
-    models: false
-    downloadLink: true
-  dependencies:
-    spec:
-      ref:
-        kind: openapi
-        spec: semarchy-platform-demo
-  ```
