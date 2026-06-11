@@ -1,11 +1,16 @@
 ---
-description: "Cloud-first Semarchy platform documentation for administrators, designers, and business users."
+description: "Cloud-first Semarchy platform documentation that stays close to the current public SaaS docs shape."
 icon: cloud
 ---
 
 # SaaS platform
 
-The SaaS space is for teams using the Semarchy Data Platform as a hosted service. It keeps the familiar progression of getting started, guides, reference, and releases, but frames it around a cloud operating model instead of a generic docs tree.
+This version is intentionally more literal to Semarchy's current SaaS docs. It keeps the familiar top-level buckets:
+
+- Get started
+- Guides
+- Reference
+- Releases
 
 <table data-view="cards">
   <thead>
@@ -25,19 +30,19 @@ The SaaS space is for teams using the Semarchy Data Platform as a hosted service
     </tr>
     <tr>
       <td><i class="fa-user-shield" style="color:#003B72;"></i></td>
-      <td><strong>Admin and access</strong></td>
-      <td>SSO, API clients, user management, license visibility, and operational controls.</td>
-      <td><a href="admin-and-access.md">admin-and-access.md</a></td>
+      <td><strong>Guides</strong></td>
+      <td>Administrator, design, and platform guidance grouped more directly around the current public docs shape.</td>
+      <td><a href="guides.md">guides.md</a></td>
     </tr>
     <tr>
       <td><i class="fa-compass-drafting" style="color:#003B72;"></i></td>
-      <td><strong>Design workflows</strong></td>
-      <td>Design environment setup, modeling, SemQL learning paths, and handoff into the shared toolchain.</td>
-      <td><a href="design-workflows.md">design-workflows.md</a></td>
+      <td><strong>Reference</strong></td>
+      <td>API, CLI, and design references separated clearly from guides.</td>
+      <td><a href="reference.md">reference.md</a></td>
     </tr>
   </tbody>
 </table>
 
 {% hint style="info" %}
-Semarchy's public SaaS docs already expose `Get started`, `Guides`, `Reference`, and `Releases`. This demo keeps that logic, but tightens the landing layer so hosted users know immediately what differs from self-hosted.
+Semarchy's public SaaS docs already expose `Get started`, `Guides`, `Reference`, and `Releases`. This draft now stays much closer to that exact framing.
 {% endhint %}

@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Builders and integrations](README.md)
-* [Toolchain overview](toolchain-overview.md)
-* [Design CLI](design-cli.md)
-* [Platform CLI and VS Code](platform-cli-and-vscode.md)
-* [APIs and third-party platforms](apis-and-third-party-platforms.md)
-* [Compatibility matrix](compatibility-matrix.md)
+* [Shared content library](README.md)
+* [Shared getting-started patterns](shared-getting-started-patterns.md)
+* [Shared guide modules](shared-guide-modules.md)
+* [Shared reference modules](shared-reference-modules.md)
+* [Compatibility note template](compatibility-note-template.md)
+* [Release note fragments](release-note-fragments.md)

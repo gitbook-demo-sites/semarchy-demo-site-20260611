@@ -1,5 +1,5 @@
 ---
-description: "Landing space for a Semarchy documentation hub built around deployment model, shared toolchains, and compatibility."
+description: "Landing space for a Semarchy documentation hub that stays close to the current public docs structure."
 icon: house
 layout:
   width: wide
@@ -21,7 +21,7 @@ layout:
 
 {% columns %}
 {% column width="58%" %}
-Semarchy already has strong product depth. The issue is not lack of material, it is that versioning, deployment model, and toolchain compatibility are doing too much of the navigation work. This draft reorganizes the experience around one entrypoint, two deployment paths, and one shared builder surface for CLI, VS Code, APIs, and third-party integrations.
+Semarchy already has strong product depth. This revised draft stays much closer to the current documentation model: one shared homepage and two deployment tracks, each preserving the familiar `Get started`, `Guides`, `Reference`, and `Releases` framing.
 
 <a class="button primary" href="https://www.semarchy.com/get-started/">Start with Semarchy</a>
 <a class="button secondary" href="https://support.semarchy.com/">Contact support</a>
@@ -34,7 +34,7 @@ Semarchy already has strong product depth. The issue is not lack of material, it
 {% hint style="success" icon="circle-info" %}
 **Demo thesis**
 
-This version deliberately separates *deployment-specific* content from *shared builder surfaces*. That gives Semarchy a cleaner story for SaaS vs self-hosted readers without duplicating every CLI, API, and integration explanation.
+This version is more literal to the current Semarchy docs, while still showing one additional GitBook value: a private shared-content library for reusable material across SaaS and self-hosted.
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
@@ -63,40 +63,17 @@ This version deliberately separates *deployment-specific* content from *shared b
       <td>Installation, upgrades, environment operations, and the version-aware path for customer-managed deployments.</td>
       <td><a href="https://app.gitbook.com/s/C2xHo5F5QL4m0UbrhFwu/README">README</a></td>
     </tr>
-    <tr>
-      <td><i class="fa-code-branch" style="color:#003B72;"></i></td>
-      <td><strong>Builders and integrations</strong></td>
-      <td>VS Code, Design CLI, Platform CLI, APIs, and third-party integration surfaces organized as one compatibility-aware toolchain.</td>
-      <td><a href="https://app.gitbook.com/s/iQlvI6ojNKxdNRbfueTa/README">README</a></td>
-    </tr>
   </tbody>
 </table>
 
-## What this draft is trying to prove
+## What changed from the first draft
 
-{% columns %}
-{% column %}
-### For Semarchy readers
-
-- One clear choice between SaaS and self-hosted
-- Shared tooling explained once instead of repeated everywhere
-- Better discoverability for compatibility and release decisions
-- A cleaner path to decide where API docs should live
-{% endcolumn %}
-
-{% column %}
-### For Semarchy authors
-
-- Product teams can own shared surfaces without duplicating deployment content
-- Release notes and compatibility can become first-class content, not footnotes
-- CLI and extension docs can evolve independently without fragmenting navigation
-- Legacy content has a defined landing zone instead of lingering as parallel navigation
-{% endcolumn %}
-{% endcolumns %}
+- The published site is now closer to the current Semarchy docs shape.
+- The more opinionated shared-toolchain concept has been moved out of the public navigation.
+- Reusable cross-track material is instead modeled in a private shared-content space for authors.
 
 ## Suggested first path
 
 1. Read [why this structure](why-this-structure.md).
 2. Choose either the [SaaS platform](https://app.gitbook.com/s/sQVyekheKgc48qS6NC3K/README) or [self-hosted platform](https://app.gitbook.com/s/C2xHo5F5QL4m0UbrhFwu/README) path.
-3. Use [builders and integrations](https://app.gitbook.com/s/iQlvI6ojNKxdNRbfueTa/README) for shared toolchain, API, and compatibility questions.
-4. Review the proposed [versioning strategy](versioning-strategy.md) before modeling long-lived releases.
+3. Review the proposed [versioning strategy](versioning-strategy.md) before modeling long-lived releases.

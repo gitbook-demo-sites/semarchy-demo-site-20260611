@@ -5,7 +5,12 @@ icon: server
 
 # Self-hosted platform
 
-The self-hosted space is where Semarchy can lean into version-aware navigation without overwhelming hosted users. This is the operated path: installation, deployment method, resource planning, upgrades, and environment-specific operational guidance.
+This version is also intentionally more literal to Semarchy's current self-hosted docs. It keeps the familiar top-level buckets:
+
+- Get started
+- Guides
+- Reference
+- Releases
 
 <table data-view="cards">
   <thead>
@@ -19,25 +24,25 @@ The self-hosted space is where Semarchy can lean into version-aware navigation w
   <tbody>
     <tr>
       <td><i class="fa-box-open" style="color:#003B72;"></i></td>
-      <td><strong>Deployment path</strong></td>
-      <td>Requirements, installation choices, Helm guidance, prechecks, and environment bootstrap.</td>
-      <td><a href="deployment-path.md">deployment-path.md</a></td>
+      <td><strong>Get started</strong></td>
+      <td>Requirements, architecture, concepts, first steps, and deployment entrypoint material.</td>
+      <td><a href="get-started.md">get-started.md</a></td>
     </tr>
     <tr>
       <td><i class="fa-gears" style="color:#003B72;"></i></td>
-      <td><strong>Operations and upgrades</strong></td>
-      <td>Upgrade planning, rollback considerations, release-track expectations, and operated-environment routines.</td>
-      <td><a href="operations-and-upgrades.md">operations-and-upgrades.md</a></td>
+      <td><strong>Guides</strong></td>
+      <td>Admin, design, and platform guidance for customer-managed environments.</td>
+      <td><a href="guides.md">guides.md</a></td>
     </tr>
     <tr>
       <td><i class="fa-code-branch" style="color:#003B72;"></i></td>
-      <td><strong>Compatibility and releases</strong></td>
-      <td>Where platform versions meet CLI, extension, and integration version requirements.</td>
-      <td><a href="compatibility-and-releases.md">compatibility-and-releases.md</a></td>
+      <td><strong>Reference and releases</strong></td>
+      <td>Reference surfaces and version-aware release navigation for self-hosted tracks.</td>
+      <td><a href="reference.md">reference.md</a></td>
     </tr>
   </tbody>
 </table>
 
 {% hint style="info" %}
-Semarchy's current self-hosted docs already expose multiple release tracks such as `latest`, `1.1.0`, and `1.0.0`. This demo treats that version split as a feature, but keeps it inside the self-hosted path rather than forcing the whole site to think like a release archive.
+Semarchy's current self-hosted docs already expose multiple release tracks such as `latest`, `1.1.0`, and `1.0.0`. This draft keeps that version split visible, but without inventing a different top-level information architecture.
 {% endhint %}
