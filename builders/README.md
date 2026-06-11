@@ -16,3 +16,5 @@ This space now includes real GitBook reusable blocks in `.gitbook/includes/` plu
 {% hint style="success" %}
 The snippets in this space are examples of authoring primitives Semarchy could actually reuse when consolidating duplicate cloud and self-hosted material.
 {% endhint %}
+
+Start with the [snippet catalog](snippet-catalog.md) to review the current reusable blocks directly.

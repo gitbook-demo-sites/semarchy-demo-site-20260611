@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Shared content library](README.md)
+* [Snippet catalog](snippet-catalog.md)
 * [Shared getting-started patterns](shared-getting-started-patterns.md)
 * [Shared guide modules](shared-guide-modules.md)
 * [Shared reference modules](shared-reference-modules.md)
