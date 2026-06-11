@@ -25,6 +25,6 @@ Keep installation and bootstrap guidance near the workflow pages, not buried in 
 {% step %}
 ### Use the shared toolchain
 
-Move readers into [Builders and integrations](https://app.gitbook.com/s/XSPACE_BUILDERS/README) for deeper CLI, VS Code, API, and compatibility material.
+Move readers into [Builders and integrations](https://app.gitbook.com/s/iQlvI6ojNKxdNRbfueTa/README) for deeper CLI, VS Code, API, and compatibility material.
 {% endstep %}
 {% endstepper %}

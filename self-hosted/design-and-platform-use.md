@@ -10,5 +10,5 @@ After deployment, self-hosted readers still need the same platform and design gu
 ## Reading model
 
 - Use self-hosted deployment and operations pages for environment-specific tasks.
-- Reuse shared builder guidance in [Builders and integrations](https://app.gitbook.com/s/XSPACE_BUILDERS/README) for CLI, extension, API, and compatibility details.
+- Reuse shared builder guidance in [Builders and integrations](https://app.gitbook.com/s/iQlvI6ojNKxdNRbfueTa/README) for CLI, extension, API, and compatibility details.
 - Reuse application-level workflow guidance where the platform behavior is materially the same as SaaS.

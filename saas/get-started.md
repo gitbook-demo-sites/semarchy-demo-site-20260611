@@ -21,4 +21,4 @@ The cloud path should answer three questions quickly:
 ## Suggested cross-links
 
 - For design tooling, continue to [Design workflows](design-workflows.md).
-- For shared CLI, VS Code, and API concerns, continue to [Builders and integrations](https://app.gitbook.com/s/XSPACE_BUILDERS/README).
+- For shared CLI, VS Code, and API concerns, continue to [Builders and integrations](https://app.gitbook.com/s/iQlvI6ojNKxdNRbfueTa/README).

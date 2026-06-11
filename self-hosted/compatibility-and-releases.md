@@ -14,4 +14,4 @@ This is the bridge between self-hosted versioning and the shared toolchain.
 - What breaks when a team upgrades the platform without upgrading tooling?
 - Which integration surfaces are version-sensitive?
 
-For the canonical shared view, continue to the [compatibility matrix](https://app.gitbook.com/s/XSPACE_BUILDERS/compatibility-matrix).
+For the canonical shared view, continue to the [compatibility matrix](https://app.gitbook.com/s/iQlvI6ojNKxdNRbfueTa/compatibility-matrix).

@@ -55,19 +55,19 @@ This version deliberately separates *deployment-specific* content from *shared b
       <td><i class="fa-cloud" style="color:#003B72;"></i></td>
       <td><strong>SaaS platform</strong></td>
       <td>Cloud-first onboarding, administration, design workflows, and release guidance for Semarchy-hosted deployments.</td>
-      <td><a href="https://app.gitbook.com/s/XSPACE_SAAS/README">README</a></td>
+      <td><a href="https://app.gitbook.com/s/sQVyekheKgc48qS6NC3K/README">README</a></td>
     </tr>
     <tr>
       <td><i class="fa-server" style="color:#003B72;"></i></td>
       <td><strong>Self-hosted platform</strong></td>
       <td>Installation, upgrades, environment operations, and the version-aware path for customer-managed deployments.</td>
-      <td><a href="https://app.gitbook.com/s/XSPACE_SELF_HOSTED/README">README</a></td>
+      <td><a href="https://app.gitbook.com/s/C2xHo5F5QL4m0UbrhFwu/README">README</a></td>
     </tr>
     <tr>
       <td><i class="fa-code-branch" style="color:#003B72;"></i></td>
       <td><strong>Builders and integrations</strong></td>
       <td>VS Code, Design CLI, Platform CLI, APIs, and third-party integration surfaces organized as one compatibility-aware toolchain.</td>
-      <td><a href="https://app.gitbook.com/s/XSPACE_BUILDERS/README">README</a></td>
+      <td><a href="https://app.gitbook.com/s/iQlvI6ojNKxdNRbfueTa/README">README</a></td>
     </tr>
   </tbody>
 </table>
@@ -97,6 +97,6 @@ This version deliberately separates *deployment-specific* content from *shared b
 ## Suggested first path
 
 1. Read [why this structure](why-this-structure.md).
-2. Choose either the [SaaS platform](https://app.gitbook.com/s/XSPACE_SAAS/README) or [self-hosted platform](https://app.gitbook.com/s/XSPACE_SELF_HOSTED/README) path.
-3. Use [builders and integrations](https://app.gitbook.com/s/XSPACE_BUILDERS/README) for shared toolchain, API, and compatibility questions.
+2. Choose either the [SaaS platform](https://app.gitbook.com/s/sQVyekheKgc48qS6NC3K/README) or [self-hosted platform](https://app.gitbook.com/s/C2xHo5F5QL4m0UbrhFwu/README) path.
+3. Use [builders and integrations](https://app.gitbook.com/s/iQlvI6ojNKxdNRbfueTa/README) for shared toolchain, API, and compatibility questions.
 4. Review the proposed [versioning strategy](versioning-strategy.md) before modeling long-lived releases.

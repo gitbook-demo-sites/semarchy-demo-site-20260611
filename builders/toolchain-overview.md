@@ -19,7 +19,7 @@ icon: route
 {% step %}
 ### Start with the platform track
 
-Pick [SaaS platform](https://app.gitbook.com/s/XSPACE_SAAS/README) or [Self-hosted platform](https://app.gitbook.com/s/XSPACE_SELF_HOSTED/README) first so the environment context is clear.
+Pick [SaaS platform](https://app.gitbook.com/s/sQVyekheKgc48qS6NC3K/README) or [Self-hosted platform](https://app.gitbook.com/s/C2xHo5F5QL4m0UbrhFwu/README) first so the environment context is clear.
 {% endstep %}
 
 {% step %}

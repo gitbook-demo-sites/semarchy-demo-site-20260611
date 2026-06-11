@@ -38,5 +38,5 @@ Keep tool pages canonical, then attach compatibility matrices and version callou
 
 1. Keep the SaaS space unversioned.
 2. Model self-hosted as real versioned tracks.
-3. Keep toolchain pages canonical in [Builders and integrations](https://app.gitbook.com/s/XSPACE_BUILDERS/README).
+3. Keep toolchain pages canonical in [Builders and integrations](https://app.gitbook.com/s/iQlvI6ojNKxdNRbfueTa/README).
 4. Add a visible compatibility matrix before expanding more release permutations.

@@ -59,9 +59,9 @@ Compatibility is not a buried note. It is a top-level concern for Semarchy becau
 
 ## Cross-space reading model
 
-- Use [SaaS platform](https://app.gitbook.com/s/XSPACE_SAAS/README) for cloud-first tasks.
-- Use [Self-hosted platform](https://app.gitbook.com/s/XSPACE_SELF_HOSTED/README) for install, upgrade, and operated-environment tasks.
-- Use [Builders and integrations](https://app.gitbook.com/s/XSPACE_BUILDERS/README) for CLI, VS Code, APIs, and compatibility.
+- Use [SaaS platform](https://app.gitbook.com/s/sQVyekheKgc48qS6NC3K/README) for cloud-first tasks.
+- Use [Self-hosted platform](https://app.gitbook.com/s/C2xHo5F5QL4m0UbrhFwu/README) for install, upgrade, and operated-environment tasks.
+- Use [Builders and integrations](https://app.gitbook.com/s/iQlvI6ojNKxdNRbfueTa/README) for CLI, VS Code, APIs, and compatibility.
 
 {% hint style="info" %}
 This is intentionally a sales demo structure, not a line-by-line migration plan. The point is to show how GitBook can turn Semarchy's current content depth into a clearer reader journey.
